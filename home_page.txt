@@ -3,5 +3,6 @@ Welcome to home page!
 Nav:
 Home >
 Login >
+Regster >
 
 Welcome to Metis
